@@ -1,0 +1,38 @@
+
+Resumen_Completo_Alex_Obsidian
+Dossier Completo – Alex Lazo
+Obsidian – actualizado 24 abril 2026, 6:30 pm
+Ubicación: Chupaca, Junín, Perú
+
+1. Quién eres
+3. Stack técnico que has tocado
+Has probado más de 30 tecnologías. Esto es lo que aparece en tu package.json y en tus descripciones:
+
+Frontend: React 19, Next.js 15, Astro, Tailwind CSS 4, shadcn/ui, Radix UI, Framer Motion, Typewriter Effect, Zustand, TanStack Query, @dnd-kit, @react-three/fiber, @react-three/drei
+
+Backend: Node.js, Hono, Express, tRPC, oRPC, Next.js API Routes, FastAPI (probado), Socket.io
+
+Base de datos: MongoDB con Mongoose, PostgreSQL, SQLite, Supabase, Prisma, Drizzle ORM
+
+IA y RAG: LangChain, @langchain/google-genai, Google Gemini, Pinecone, HuggingFace Inference, @huggingface/inference
+
+Servicios: Cloudinary, Resend, NextAuth.js, Vercel Analytics
+
+Herramientas: pnpm, Git, Docker, GitHub Actions, Postman, Markdown, Obsidian, Antigravity, Brave
+
+Nivel real: TypeScript y JavaScript medio, el resto es exploración.
+
+4. Tu portafolio actual
+No lo creaste de cero. Clonaste el template de Sandeep Singh: https://github.com/Sandeep-singh-99/Portfolio
+
+Qué trae:
+
+Next.js 15 con App Router
+CMS completo con login (NextAuth)
+CRUD para Intro, Acerca de, Habilidades, Blog, Proyectos, Certificados
+Subida automática a Cloudinary
+Drag and drop con @dnd-kit
+Chatbot RAG con Pinecone + Gemini + HuggingFace
+Elementos 3D con Three.js
+Animaciones con Framer Motion
+Qué funciona hoy:
